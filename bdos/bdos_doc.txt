@@ -18,6 +18,9 @@ check_doc -> Mostra o documento
 check_var -> Mostra todas as variaveis
 check_notifications -> Mostra as notificacoes
 clear_notifications -> Limpa as notificacoes
+down_app [LINK_DO_RAW] -> Abaixa um aplicativo (Tome cuidado)
+check_history -> Mostra o historico de aplicativos abaixados
+clear_history -> Limpa o historico de aplicativos abaixados
 
 --Aplicativos (objetos)--
 set_title(title) -> Muda o titulo
