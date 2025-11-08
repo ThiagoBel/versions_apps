@@ -1,3 +1,31 @@
 Documento
 
-blablabla
+Terminal
+exit -> Fecha o sistema
+open_apps [NOME_DO_APLICATIVO] -> Abre um aplicativo
+show_apps -> Mostra todos os aplicativos instalados
+open_apps_lib [NOME_DO_APLICATIVO] -> Abre um aplicativo com biblioteca externa
+test_apps [NOME_DO_APLICATIVO] -> Mostra as informacoes do aplicativo
+del_app [NOME_DO_APLICATIVO] -> Deleta um aplicativo
+theme [NOME_DO_TEMA] -> Escolhe um tema
+c_theme [NUMERO_DO_TEMA] -> Escolhe o tema via numero (ex: 12)
+say [TEXTO] -> Mostra o texto
+clear -> Limpa o terminal
+user_info -> Mostra a informacao do usuario
+format_os -> Formata o sistema (Os aplicativos ainda fica no sistema)
+check_version -> Verifica a sua versao
+check_doc -> Mostra o documento
+check_var -> Mostra todas as variaveis
+check_notifications -> Mostra as notificacoes
+clear_notifications -> Limpa as notificacoes
+
+Aplicativos (objetos)
+set_title(title) -> Muda o titulo
+set_theme(theme) -> Muda o tema
+set_theme_temp(theme) -> Muda o tema temporariamente
+message(title, msg, UINT) -> Envia uma mensagem
+say(msg) -> Envia uma mensagem para o terminal
+pause() -> Pausa
+check_notifications() -> Verifica as notificacoes do usuario
+clear_notifications() -> Limpa as notificacoes do usuario
+send_notification(msg) -> Envia uma notificacao para o usuario
