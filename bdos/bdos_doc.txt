@@ -1,6 +1,3 @@
-Documento
-
---Terminal--
 exit -> Fecha o sistema
 reload -> Reinicia o sistema
 open_apps [NOME_DO_APLICATIVO] -> Abre um aplicativo
@@ -24,6 +21,11 @@ down_app [LINK_DO_RAW] -> Abaixa um aplicativo (Tome cuidado)
 check_history -> Mostra o historico de aplicativos abaixados
 clear_history -> Limpa o historico de aplicativos abaixados
 security -> Abre o menu de configuracoes de seguranca
+shutdown -> Desliga o sistema
+configs -> Abre as configuracoes
+beep -> Toca um som
+sys_info -> Mostra as informacoes do sistema
+check_storage -> Verifica o armazenamento usado no sistema
 
 --Aplicativos (objetos)--
 set_title(title) -> Muda o titulo
