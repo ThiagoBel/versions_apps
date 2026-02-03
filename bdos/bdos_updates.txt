@@ -7,4 +7,5 @@ Updates do Big Dragon OS
 5. Fotos
 6. Discord RPC
 7. Novas configurações
-8. Arrumação de bugs
+8. Novo design
+9. Arrumação de bugs
