@@ -1,6 +1,10 @@
 Updates do Big Dragon OS
 
-1. Lançamento oficial :)
-2. Novos comandos
-3. Novo logotipo
-4. Bugs corrigidos
+1. Sons
+2. Novos comandos (use HELP para saber todos)
+3. Sistemas de segurança
+4. Aplicativos
+5. Fotos
+6. Discord RPC
+7. Novas configurações
+8. Arrumação de bugs
