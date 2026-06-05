@@ -59,7 +59,7 @@ Criado no C++11
 #include "configs/discord/discord_rpc.h"
 std::string _DEFINE = "";            // negocio definido
 std::string _PAST_DEFINE = "";       // salvamento
-std::string _VERSION = "WOOOW";      // versao do terminal
+std::string _VERSION = "W.0.1";      // versao do terminal
 int _TERMINAL_RODADOS = 0;           // mostra quantas vezes o terminal foi rodado
 std::string AND_OPERATOR = "&&&&";   // adiciona comandos
 std::string DELAY_OPERATOR = "@@@@"; // adiciona comandos + delay
