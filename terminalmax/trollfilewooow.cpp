@@ -3010,7 +3010,7 @@ void COMANDOS_EXEC(const std::string &comandoOriginal) // TODOS os comandos
         USER_INPUT = "";
         USER_CALCCD = "";
         _ERRORS_CMD = 0;
-        SetConsoleTitleA(("Terminal MAX - " + _VERSION).c_str());
+        SetConsoleTitleA(("Terminal WOOOW - " + _VERSION).c_str());
         CLEAR_TERMINAL();
         ASCII_CALL();
         PRINT_SYS("Olá " + _APELIDO + "!", true);
@@ -3558,7 +3558,7 @@ int main(int argc, char *argv[])
         }
     }
     enableANSI();
-    SetConsoleTitleA(("Terminal MAX - " + _VERSION).c_str());
+    SetConsoleTitleA(("Terminal WOOOW - " + _VERSION).c_str());
     bool ranFromArgs = false;
 
     for (int i = 1; i < argc; i++)
