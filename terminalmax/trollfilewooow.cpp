@@ -3188,6 +3188,10 @@ void COMANDOS_EXEC(const std::string &comandoOriginal) // TODOS os comandos
     {
         ALL_SETTINGS_MAX();
     }
+    else if (comando == "test_wow")
+    {
+        PRINT_BLUE("YOOOOOOOOO", true);
+    }
     else // ou da erro ou executa qualquer ngc no path
     {
         std::string cmd = comandoOriginal;
